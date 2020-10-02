@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/custom-theme.scss",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "McAlbum"
+    }
+  },
+  "defaultProject": "McAlbum",
+  "cli": {
+    "analytics": "28ae31f3-e6f2-4022-a5e5-cb83e4e5d0d1"
+  }
 }
